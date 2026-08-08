@@ -699,7 +699,7 @@
         "uuid": "20ca7abf-6a93-4a83-a0da-5b6b8a8869a8"
       }
     ],
-    "used_designators": "R1-37,C1,BT1-2,#PWR1-2,D1-10,SW1-3,Status1-2,P1,F1,RV1-3,RV1\\-G1,RV2\\-B1,RV3\\-R1,Blue1,Green1,Red1,J1",
+    "used_designators": "R1-37,C1,BT1-2,#PWR1-2,D1-10,SW1-3,Status1-2,P1,F1,RV1-3,RV1\\-G1,RV2\\-B1,RV3\\-R1,Blue1,Green1,Red1",
     "variants": []
   },
   "sheets": [
