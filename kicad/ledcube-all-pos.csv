@@ -1,4 +1,4 @@
-Designator,Val,Package,Mid X,Mid Y,Rot,Side
+Ref,Val,Package,PosX,PosY,Rot,Side
 "R28","150R","R_0603_1608Metric",89.500000,-98.795000,-90.000000,bottom
 "Status1","LED","LED_0805_2012Metric",89.500000,-95.000000,90.000000,bottom
 "Blue1","R_Potentiometer_Trim","Potentiometer_Bourns_3266W_Vertical",97.540000,-58.770000,0.000000,top
@@ -13,7 +13,8 @@ Designator,Val,Package,Mid X,Mid Y,Rot,Side
 "D9","Inolux_IN-P55TATRGB","LED_Inolux_IN-P55TATRGB_PLCC6_5.0x5.5mm_P1.8mm",114.000000,-85.620000,0.000000,top
 "F1","Polyfuse","Fuse_BelFuse_0ZRE0005FF_L8.3mm_W3.8mm",82.450000,-90.875000,0.000000,top
 "Green1","R_Potentiometer_Trim","Potentiometer_Bourns_3266W_Vertical",112.540000,-58.770000,0.000000,top
-"P1","USB_C_Plug_USB2.0","USB_C_Receptacle_HRO_TYPE-C-31-M-17",105.246000,-99.500000,0.000000,top
+"J1","Conn_01x04","PinSocket_1x04_P2.54mm_Vertical",101.205000,-92.295000,-90.000000,top
+"P1","USB_C_Plug_USB2.0","USB_C_Receptacle_HRO_TYPE-C-31-M-17",106.500000,-99.500000,0.000000,top
 "R1","100R","R_0603_1608Metric",85.500000,-74.500000,180.000000,top
 "R2","150R","R_0603_1608Metric",85.500000,-72.500000,180.000000,top
 "R3","100R","R_0603_1608Metric",85.500000,-70.500000,180.000000,top
@@ -41,6 +42,9 @@ Designator,Val,Package,Mid X,Mid Y,Rot,Side
 "R25","100R","R_0603_1608Metric",108.500000,-88.000000,180.000000,top
 "R26","150R","R_0603_1608Metric",108.500000,-86.000000,180.000000,top
 "R27","100R","R_0603_1608Metric",108.500000,-83.500000,180.000000,top
+"R29","400R","R_0603_1608Metric",93.000000,-97.000000,90.000000,top
+"R30","400R","R_0603_1608Metric",95.500000,-97.000000,90.000000,top
+"R31","400R","R_0603_1608Metric",98.000000,-97.000000,90.000000,top
 "Red1","R_Potentiometer_Trim","Potentiometer_Bourns_3266W_Vertical",120.540000,-95.770000,0.000000,top
 "SW1","SW_SPDT_321","SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile",106.195000,-65.512500,0.000000,top
 "SW2","SW_SPDT_321","SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile",114.195000,-91.512500,0.000000,top
