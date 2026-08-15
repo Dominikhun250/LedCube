@@ -1,6 +1,4 @@
-Designator,Val,Package,Mid X,Mid Y,Rot,Side
-"R28","150R","R_0603_1608Metric",89.500000,-98.795000,-90.000000,bottom
-"Status1","LED","LED_0805_2012Metric",89.500000,-95.000000,90.000000,bottom
+Ref,Val,Package,PosX,PosY,Rot,Side
 "Blue1","R_Potentiometer_Trim","Potentiometer_Bourns_3266W_Vertical",97.540000,-58.770000,0.000000,top
 "D1","Inolux_IN-P55TATRGB","LED_Inolux_IN-P55TATRGB_PLCC6_5.0x5.5mm_P1.8mm",91.000000,-72.380000,0.000000,top
 "D2","Inolux_IN-P55TATRGB","LED_Inolux_IN-P55TATRGB_PLCC6_5.0x5.5mm_P1.8mm",91.000000,-79.000000,0.000000,top
