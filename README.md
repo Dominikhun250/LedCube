@@ -2,12 +2,14 @@
 Self made pcb for a small cube lamp. Where you can set the color of the leds & the lamp.
 Its a DIY project.
 
-![Preview](https://github.com/Dominikhun250/LedCube/blob/main/preview.gif)
+![Preview](https://github.com/Dominikhun250/LedCube/blob/main/images/preview.gif)
 
 ## Screenshots
 
-![Pcb front](https://github.com/Dominikhun250/LedCube/blob/main/Image-front.png)
-![Pcb back](https://github.com/Dominikhun250/LedCube/blob/main/Image-back.png)
+![LedCube preview](https://github.com/Dominikhun250/LedCube/blob/main/images/preview-ledcube.jpg)
+![Pcb irl](https://github.com/Dominikhun250/LedCube/blob/main/images/preview-pcb.jpg)
+![Pcb front](https://github.com/Dominikhun250/LedCube/blob/main/images/Image-front.png)
+![Pcb back](https://github.com/Dominikhun250/LedCube/blob/main/images/Image-back.png)
 
 ## Credits
 Original project: [AirCube](https://github.com/StuckAtPrototype/AirCube)
